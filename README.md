@@ -13,12 +13,18 @@ How to Use 🚀
 Clone the Repository: 🛠️ Clone the repository to your local machine.
 
 git clone https://github.com/Aditya1137/Calculator.git
+
 Compile and Run: 🚀 Compile the Java files and run the calculator.
 
 javac Calculator.java
 java Calculator
 Perform Calculations: 🧮 Enter your desired arithmetic expression and press Enter to see the result. Use the memory functionality to store and recall results for complex calculations.
+
+
 Screenshots 📸
+
+
+
 <img width="302" alt="Screenshot 2024-03-06 222735" src="https://github.com/Aditya1137/Calculator/assets/131518897/ebe58a6c-5d73-4ee1-b15d-5ff7714932e5">
 
 
